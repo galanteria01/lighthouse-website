@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/lighthouse.github.io/static/css/main.d17817d3.chunk.css",
+    "main.js": "/lighthouse.github.io/static/js/main.eaedbe3c.chunk.js",
+    "main.js.map": "/lighthouse.github.io/static/js/main.eaedbe3c.chunk.js.map",
+    "runtime-main.js": "/lighthouse.github.io/static/js/runtime-main.ee2465fe.js",
+    "runtime-main.js.map": "/lighthouse.github.io/static/js/runtime-main.ee2465fe.js.map",
+    "static/js/2.a9bcd0a8.chunk.js": "/lighthouse.github.io/static/js/2.a9bcd0a8.chunk.js",
+    "static/js/2.a9bcd0a8.chunk.js.map": "/lighthouse.github.io/static/js/2.a9bcd0a8.chunk.js.map",
+    "static/js/3.46a92e64.chunk.js": "/lighthouse.github.io/static/js/3.46a92e64.chunk.js",
+    "static/js/3.46a92e64.chunk.js.map": "/lighthouse.github.io/static/js/3.46a92e64.chunk.js.map",
+    "index.html": "/lighthouse.github.io/index.html",
+    "static/css/main.d17817d3.chunk.css.map": "/lighthouse.github.io/static/css/main.d17817d3.chunk.css.map",
+    "static/js/2.a9bcd0a8.chunk.js.LICENSE.txt": "/lighthouse.github.io/static/js/2.a9bcd0a8.chunk.js.LICENSE.txt",
+    "static/media/lighthouse.6f11d3b0.png": "/lighthouse.github.io/static/media/lighthouse.6f11d3b0.png",
+    "static/media/lighthouse.ae8d2f5a.svg": "/lighthouse.github.io/static/media/lighthouse.ae8d2f5a.svg",
+    "static/media/violet.1b94f9fe.png": "/lighthouse.github.io/static/media/violet.1b94f9fe.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ee2465fe.js",
+    "static/js/2.a9bcd0a8.chunk.js",
+    "static/css/main.d17817d3.chunk.css",
+    "static/js/main.eaedbe3c.chunk.js"
+  ]
+}
